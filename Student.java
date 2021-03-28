@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 class Student {
-   private String ID;
-   private int numberOfCredits;
-   private int points;
-   private double gradePoint;
+   public String ID;
+   public int numberOfCredits;
+   public int points;
+   public double gradePoint;
 
    public Student() {
    }
